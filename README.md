@@ -1,11 +1,10 @@
-# MORFLE'S BAD PROBLEM
-Welcome to Morfle's Bad Problem!
-You have to avoid the blue and go to the green!
+# X AND Y DETECTOR
+Hi
+This is mouse cursor location detector
 That's pretty much i-
 # SPECS
-This was made in Scratch a year ago. This is why it just randomly starts at v1.4 or whatever it was.
+This was made in Scratch a year ago.
 It was compiled using TurboWarp.
-ALSO PLEASE IGNORE GATEKEEPER WARNINGS OR WHATEVER I DONT WANT TO PAY APPLE DDDDDDD:
 # *LE GRANDE CREDITS*
-toby fox and materia music publishing
+toby fox and materia music publishing-
 Wow! as simple as that
